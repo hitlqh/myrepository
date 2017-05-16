@@ -7,3 +7,4 @@ Git tracks the changes of files.
 difference between HEAD in workdirectory and matser branch.
 creating a new branch is quick.
 just a test 
+Creating a new branch is SIMPLE.
