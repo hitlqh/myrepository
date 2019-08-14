@@ -10,4 +10,4 @@ just a test
 Creating a new branch is simple
 no-ff
 
-Learning git AGAIN.
+Learning git AGAIN!
