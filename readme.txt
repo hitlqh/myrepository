@@ -11,3 +11,6 @@ Creating a new branch is simple
 no-ff
 
 Learning git again!
+change1.
+change2.
+change3.
